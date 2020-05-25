@@ -2,7 +2,7 @@
 Le Projet contact Pangolin consiste avec la stack mean de créer une connexion, inscription et deconnexion du compte sur lequelle on peut ajouter des pangolins en rentrant la race, l'espèce, la nourriture et l'age. 
 
 # Les technologies utilisées
-Dans ce projet j'ai utilisé la Stack MEAN donc Mongodb pour la base de données qui est non relationnelle, le Framework Express, Angular pour le front du site et Nodejs pour le Back.
+Dans ce projet j'ai utilisé la Stack MEAN donc Mongodb pour la base de données qui est non relationnelle, le Framework Express, Angular pour le Front end du site et Nodejs pour le Back end.
 
 # Avant d'exécuter le projet
     1. Installez Nodejs et NPM à partir de https://nodejs.org.
