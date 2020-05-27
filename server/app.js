@@ -9,7 +9,6 @@ const passport = require('passport');
 
 const routeIndex = require('./routes/index.router');
 const pangolinController = require('./controllers/pangolin.controller.js');
-const adminPangolinController = require('./controllers/admin.pangolin.controller.js');
 
 
 var app = express();
@@ -20,7 +19,7 @@ app.use(cors({origin: 'http://localhost:4200'}));
 app.use(passport.initialize());
 app.use('/api', routeIndex);
 app.use('/pangolins', pangolinController);
-app.use('/adminpangolins', adminPangolinController);
+
 
 // error handler
 app.use((err, req, res, next) => {
