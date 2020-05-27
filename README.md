@@ -12,3 +12,4 @@ Dans ce projet j'ai utilisé la Stack MEAN donc Mongodb pour la base de données
     5. Démarrez l'application en exécutant npm start, cela compilera l'application Angular et la lancera automatiquement dans le navigateur sur l'URL http: // localhost:4200.
     6. Pour demarez l'application ave CLI commance Angular CLI ng serve --open. Pour ce faire, installez d'abord la Angular CLI globalement sur votre système avec la commande npm install -g @ angular / cli.
     7. Pour demarez le server il faut exécuter la commande nodemon app dans le fichier server dans Projet-contact-list-Pangolin.
+
