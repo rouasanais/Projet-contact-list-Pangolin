@@ -12,5 +12,3 @@ module.exports = mongoose;
 
 require('./user.model');
 require('./pangolin');
-require('./admin');
-require('./admin.pangolin');
